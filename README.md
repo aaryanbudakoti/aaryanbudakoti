@@ -8,7 +8,8 @@ Full Stack Web Developer
 
 Stack: HTML5 · CSS3 · Javascript · Django · React · MongoDB
 
-Currently building in MERN |
+🔨 Currently: Building projects | Deep diving into React + Node.js
+🎯 Open to: Frontend & Full Stack internships
 
 📍 Delhi | Open to internships & SDE roles
 
