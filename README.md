@@ -8,7 +8,7 @@ Full Stack Web Developer
 
 Stack: HTML5 · CSS3 · Javascript · Django · React · MongoDB
 
-🔨 Currently: Building projects | Deep diving into React + Node.js
+🔨 Currently: Building projects | Deep diving into React + Node.js | Active since February 2026
  <br>
 🎯 Open to: Frontend & Full Stack internships
 
