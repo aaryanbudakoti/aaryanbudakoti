@@ -14,7 +14,7 @@ Stack: HTML5 · CSS3 · Javascript · Django · React · MongoDB
 
 📍 Delhi | Open to internships & SDE roles
 
-🔗 Portfolio → aaryan-budakoti-3dportfolio.vercel.app
+🔗 Portfolio → [My Portfolio](http://aaryan-budakoti-3dportfolio.vercel.app)
 
 * 🌍  I'm based in New Delhi .!
 * 🖥️  See my portfolio at [My Portfolio](http://aaryan-budakoti-3dportfolio.vercel.app)
