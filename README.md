@@ -36,6 +36,18 @@ Stack: HTML5 · CSS3 · Javascript · Django · React · MongoDB
 
 <a href="http://www.github.com/aaryanbudakoti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryanbudakoti&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<br>
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryanbudakoti/aaryanbudakoti/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryanbudakoti/aaryanbudakoti/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/aaryanbudakoti/aaryanbudakoti/output/github-snake.svg" />
+  </picture>
+</p>
+<br clear="both">
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/aaryanbudakoti/Aaryan-Budakoti-3dportfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aaryanbudakoti&repo=Aaryan-Budakoti-3dportfolio&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/aaryanbudakoti/EventX" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aaryanbudakoti&repo=EventX&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
