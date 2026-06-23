@@ -37,7 +37,7 @@ Stack: HTML5 · CSS3 · Javascript · Django · React · MongoDB
 <a href="http://www.github.com/aaryanbudakoti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryanbudakoti&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <br>
-## 🐍 Contribution Snake
+<b>🐍 Contribution Snake</b>
 
 <p align="center">
   <picture>
