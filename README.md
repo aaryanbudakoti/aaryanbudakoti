@@ -1,50 +1,37 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Aaryan Budakoti
-========================================================================================================================================
-
-Full Stack Web Developer
---------------------
-
-💻 CS undergrad turning chai-fueled ideas into deployed products
-
-Stack: HTML5 · CSS3 · Javascript · Django · React · MongoDB
-
-🔨 Currently: Building projects | Deep diving into React + Node.js | Active since February 2026
- <br>
+# Hi 👋 My name is Aaryan Budakoti
+ 
+## Frontend-Focused Full Stack Developer (MERN)
+ 
+🖥️ CS undergrad turning chai-fueled ideas into deployed products
+ 
+**Stack:** JavaScript · React · Node.js · Express · MongoDB · HTML5 · CSS3
+ 
+🔨 Currently: Building full-stack MERN projects | Deep-diving into React + Node.js | Active since February 2026
 🎯 Open to: Frontend & Full Stack internships
-
+ 
 📍 Delhi | Open to internships & SDE roles
-
-🔗 Portfolio → [My Portfolio](http://aaryan-budakoti-3dportfolio.vercel.app)
-
-* 🌍  I'm based in New Delhi .!
-* 🖥️  See my portfolio at [My Portfolio](http://aaryan-budakoti-3dportfolio.vercel.app)
-* ✉️  You can contact me at [work.aaryanbudakoti@gmail.com](mailto:work.aaryanbudakoti@gmail.com)
-* 🧠  I'm currently learning MERN .
-* 👥  I'm looking to collaborate on Interesting Full Stack Web Development Projects.
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/aaryanbudakoti" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/aaryan-budakoti-055048289/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/aaryanbudakoti"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryanbudakoti&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+ 
+🔗 Portfolio → [My Portfolio](https://aaryan-budakoti-3dportfolio.vercel.app/)
+ 
+- 🌍 I'm based in New Delhi .!
+- 🖥️ See my portfolio at [My Portfolio](https://aaryan-budakoti-3dportfolio.vercel.app/)
+- 📧 You can contact me at [work.aaryanbudakoti@gmail.com](mailto:work.aaryanbudakoti@gmail.com)
+- 🧬 I build with the MERN stack — MongoDB, Express, React, Node.js
+- 👥 I'm looking to collaborate on interesting Full Stack Web Development projects
 <br>
-<b>🐍 Contribution Snake</b>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aaryanbudakoti/aaryanbudakoti/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aaryanbudakoti/aaryanbudakoti/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/aaryanbudakoti/aaryanbudakoti/output/github-snake.svg" />
-  </picture>
-</p>
-<br clear="both">
-
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<br>
+## Socials
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaryan-budakoti-055048289)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryanbudakoti)
+ 
